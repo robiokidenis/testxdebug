@@ -1,4 +1,4 @@
-FROM php:7.4-fpm-alpine as backend-stage
+FROM php:8.1-rc-fpm-alpine as backend-stage
 
 LABEL maintainer="Robioki"
 
